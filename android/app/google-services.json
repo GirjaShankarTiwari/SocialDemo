@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455193874679",
+    "project_id": "socialmediapushnotification",
+    "storage_bucket": "socialmediapushnotification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455193874679:android:0578d5fe08f2e863ca03f2",
+        "android_client_info": {
+          "package_name": "com.sanju"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChkG1rJdA84sENWpuS1K4axOZGTb1xV3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
